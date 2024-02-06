@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075025838904",
+    "project_id": "bheemkiranastore-cfcb4",
+    "storage_bucket": "bheemkiranastore-cfcb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075025838904:android:7b8f929700547c6742b7cd",
+        "android_client_info": {
+          "package_name": "com.example.bheem_kirana_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075025838904-4v2gee3fbhf2mn9073d977a6oomdg8mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnBpux5MYUfRoJSH__rCSZhHOqWabUGb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075025838904-4v2gee3fbhf2mn9073d977a6oomdg8mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
